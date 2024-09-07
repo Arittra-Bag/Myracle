@@ -1,6 +1,6 @@
 # AI-Powered Test Case Generator for Mobile Apps
 
-This project leverages **OpenAI's GPT-4 multimodal API** to generate detailed, structured **test cases** based on screenshots and optional context provided by the user. The tool is specifically designed to generate test cases for mobile app features such as bus ticket booking, seat selection, and offers/filters.
+This project leverages **OpenAI's GPT-4 multimodal API** to generate detailed, structured **test cases** (defined by the user) based on screenshots and optional context provided by the user. The tool is designed to generate test cases for web/mobile app features.
 
 ## Overview
 
