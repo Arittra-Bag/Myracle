@@ -87,11 +87,10 @@ This feature allows users to select and book a bus ticket from Mumbai to Bangalo
 The selected seat should be highlighted, and the user should be able to proceed to the payment page with the selected bus and seat details.
 
 # Screenshots
-Screenshots are available to showcase the process:
-
-Web Interface:
-
-Generated Test Case:
+### Web Interface (Responsive):
+![Web Interface](https://github.com/Arittra-Bag/Myracle/blob/main/myracle-light_interface.png)
+### Generated Test Case:
+![GenTestCase](https://github.com/Arittra-Bag/Myracle/blob/main/BUS-BOOKING-FLOW-OUTPUT.png)
 
 # How It Works
 - Users visit the web interface and upload one or more screenshots.
